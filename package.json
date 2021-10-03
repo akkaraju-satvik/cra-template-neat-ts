@@ -1,6 +1,6 @@
 {
   "name": "cra-template-neat-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "minimalist typscript template for create-react-app",
   "main": "template.json",
   "scripts": {
