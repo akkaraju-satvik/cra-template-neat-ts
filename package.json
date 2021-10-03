@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-neat-ts",
+  "version": "0.0.0",
+  "description": "minimalist typscript template for create-react-app",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkaraju-satvik/cra-template-neat-ts.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "typescript",
+    "tsx",
+    "template"
+  ],
+  "author": "akkaraju-satvik <satvik.akkaraju@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akkaraju-satvik/cra-template-neat-ts/issues"
+  },
+  "homepage": "https://github.com/akkaraju-satvik/cra-template-neat-ts#readme",
+  "files": [
+    "tempalte",
+    "template.json"
+  ]
+}
