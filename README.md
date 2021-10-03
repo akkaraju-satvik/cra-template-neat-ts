@@ -1,4 +1,4 @@
-# cra-template-neat
+# cra-template-neat-ts
 
 A minimal typescript create-react-app template without any dependencies and test files.
 
